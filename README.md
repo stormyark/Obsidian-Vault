@@ -7,4 +7,4 @@ This is a copy of my Obsidian Vault, scrubbed of (most) personal information tha
 
 ## Showcase
 
-[!Vault/showcase/showcase.png]
+![Example](./Vault/showcase/showcase.png)
