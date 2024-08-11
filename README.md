@@ -8,4 +8,8 @@ This is a copy of my Obsidian Vault, scrubbed of (most) personal information tha
 
 ![Example](./Vault/showcase/showcase.png)
 
+![Example](./Vault/showcase/showcase_v2.png)
+
+![Example](./Vault/showcase/showcase_daily.png)
+
 ***NOTICE:** I likely won't be updating this repository often, as I recommend you build your own vault from default configurations, while discovering and changing settings as you go. Please check the repositories listed above as well as the plugins inside the vault in order to have an up to date experience.*
