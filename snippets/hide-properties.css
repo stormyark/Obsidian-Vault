@@ -1,0 +1,12 @@
+/* Remove metadata */
+.markdown-preview-view:has(.obsidian-banner-wrapper) {
+  --metadata-display-reading: none;
+}
+/* Remove title */
+.markdown-preview-view:has(.obsidian-banner-wrapper) .inline-title {
+  display: none;
+}
+/* Adjusts the height taking into account the document margins */
+.markdown-preview-view:has(.obsidian-banner-wrapper) .obsidian-banner-wrapper {
+  margin-top: calc(var(--banner-height) - var(--file-margins) - 15px)
+}
