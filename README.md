@@ -4,7 +4,7 @@
 
 This is a copy of my Obsidian Vault, scrubbed of (most) personal information that you can use as a template or inspiration for your own vault.
 
-Theme: **AnuPpuccin** [with extended color schemes snippet](./snippets/extended-coloschemes.css)
+Theme: **AnuPpuccin** with [extended color schemes snippet](./snippets/extended-colorschemes.css)
 
 ## Showcase
 
