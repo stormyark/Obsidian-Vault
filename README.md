@@ -8,7 +8,7 @@ To get a Theme like this use: **AnuPpuccin** with [extended color schemes snippe
 
 To create rainbowcolor folders use [this](./snippets/Colored Sidebar Items.css)
 
-To create a dashboard like this install the plugin [dataview](https://github.com/blacksmithgu/obsidian-dataview) and copy the [dashboard-css](./snippets/dashboard.css), [hide-properties.css](./snippets/hide-properties.css), [Multi column](./snippets/MCL Multi Column.css) and use [home.md](./Vault/01 - stormy/Home.md)
+To create a dashboard like this install the plugin [dataview](https://github.com/blacksmithgu/obsidian-dataview) and copy the [dashboard-css](./snippets/dashboard.css), [hide-properties.css](./snippets/hide-properties.css), [Multi column](./snippets/MCLMultiColumn.css) and use [home.md](./Vault/01 - stormy/Home.md)
 
 ## Showcase
 
