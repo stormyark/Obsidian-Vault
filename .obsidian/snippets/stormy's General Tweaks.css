@@ -1,0 +1,85 @@
+/*------------------------------------------------------------------------------
+							stormy's General Tweaks							
+------------------------------------------------------------------------------*/
+
+.theme-light,
+.theme-dark {
+  --link-decoration: none;
+}
+/*
+h1 {
+  margin-top: 30px !important;
+}
+*/
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.image-borders img {
+  border: solid;
+  border-width: 1em;
+  border-width: 1px;
+  border-radius: 6px;
+  border-color: rgba(122, 122, 122, 0.5);
+}
+
+.markdown-preview-view img {
+  max-width: 100%;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 0px;
+}
+
+.callout {
+  border-radius: 14px;
+  border-width: 2px;
+}
+
+.task-list-item-checkbox {
+  border-width: 2px;
+}
+
+#calendar-container .title {
+  font-size: 18px;
+}
+
+.center-images img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.no-embed-border {
+  --embed-border-left: 0px solid black !important;
+}
+
+/* .markdown-preview-view */
+.markdown-preview-view {
+  border-radius: 0px;
+}
+
+.center-titles
+  :is(
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    .HyperMD-header.HyperMD-header-1,
+    .HyperMD-header.HyperMD-header-2,
+    .HyperMD-header.HyperMD-header-3,
+    .HyperMD-header.HyperMD-header-4,
+    .HyperMD-header.HyperMD-header-5,
+    .HyperMD-header.HyperMD-header-6
+  ) {
+  text-align: center;
+}
+
+code {
+  font-family: "JetBrainsMono Nerd Font Mono", monospace;
+}
