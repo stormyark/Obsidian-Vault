@@ -6,8 +6,9 @@ This is a copy of my Obsidian Vault, scrubbed of (most) personal information tha
 
 Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets/extended-colorschemes.css)
 
-## Showcase
-![showcase](./Vault/showcase/showcase_v4.png)
+<h1 align="center">Showcase</h1>
+## Homepage
+![homepage](./Vault/showcase/showcase_v4.png)
 
 ## Showcase daily note
 <img src="./Vault/showcase/showcase_daily_v2.png" width="50%" align="center">
