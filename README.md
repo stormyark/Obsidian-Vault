@@ -7,8 +7,15 @@ This is a copy of my Obsidian Vault, scrubbed of (most) personal information tha
 Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets/extended-colorschemes.css)
 
 ## Showcase
-
-![Example](./Vault/showcase/showcase_v3.png)
+![showcase](./Vault/showcase/showcase_v3.png)
 
 ## Showcase daily note
 <img src="./Vault/showcase/showcase_daily_v2.png" width="50%" align="center">
+
+## Callouts
+![email](./Vault/showcase/email.png)
+![screen](./Vault/showcase/screen.png)
+![letter](./Vault/showcase/letter.png)
+
+## Other
+![newspaper](./Vault/showcase/newspaper.png)
