@@ -6,7 +6,7 @@ This is a copy of my Obsidian Vault, scrubbed of (most) personal information tha
 
 Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets/extended-colorschemes.css)
 
-<h2 align="center">Showcase</h2>
+<h1 align="center">Showcase</h1>
 
 ## Homepage
 ![homepage](./Vault/showcase/showcase_v4.png)
