@@ -13,8 +13,11 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 <img src="./Vault/showcase/showcase_daily_v2.png" width="50%" align="center">
 
 ## Callouts
+### Email
 ![email](./Vault/showcase/email.png)
+### Screen
 ![screen](./Vault/showcase/screen.png)
+### Letter
 ![letter](./Vault/showcase/letter.png)
 
 ## Other
