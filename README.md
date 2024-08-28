@@ -23,4 +23,5 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 ![letter](./Vault/showcase/letter.png)
 
 ## Other
+### Newspaper
 ![newspaper](./Vault/showcase/newspaper.png)
