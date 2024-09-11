@@ -11,8 +11,8 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 ## Homepage
 ![homepage](./Vault/showcase/showcase_v5.png)
 
-## Showcase daily note
-<img src="./Vault/showcase/showcase_blueprint.png" width="50%" align="center" border="solid" border-width="1em" border-radius=6px>
+## Showcase blueprint
+<img src="./Vault/showcase/showcase_blueprint.png" width="50%" align="center" border="solid" border-radius=6px>
 
 ## Showcase daily note
 <img src="./Vault/showcase/showcase_daily_v2.png" width="50%" align="center">
