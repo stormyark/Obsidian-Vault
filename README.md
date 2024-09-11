@@ -9,10 +9,13 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 <h1 align="center">Showcase</h1>
 
 ## Homepage
-![homepage](./Vault/showcase/showcase_v4.png)
+![homepage](./Vault/showcase/showcase_v5.png)
 
 ## Showcase daily note
 <img src="./Vault/showcase/showcase_daily_v2.png" width="50%" align="center">
+
+## Showcase daily note
+<img src="./Vault/showcase/showcase_blueprint.png" width="50%" align="center">
 
 ## Callouts
 ### Email
