@@ -1,0 +1,325 @@
+/*------------------------------------------------------------------------------
+							stormy's General Tweaks							
+------------------------------------------------------------------------------*/
+
+:root {
+  /* ================================ Colors ================================ */
+  --white: #ffffff;
+  --gray-100: #f8f8f8;
+  --gray-200: #f0f0f0e0;
+  --gray-300: #e0e0e0a8;
+  --gray-400: #d0d0d063;
+  --gray-500: #c0c0c048;
+  --gray-600: #b0b0b021;
+  --black: #000000;
+}
+
+.theme-light,
+.theme-dark {
+  --link-decoration: none;
+}
+
+/* ============================== Headingcolors ============================== */
+
+:is(h1, .HyperMD-header.HyperMD-header-1) {
+  color: var(--gray-100);
+}
+
+:is(h2, .HyperMD-header.HyperMD-header-2) {
+  color: var(--gray-200);
+}
+
+:is(h3, .HyperMD-header.HyperMD-header-3) {
+  color: var(--gray-300);
+}
+
+:is(h4, .HyperMD-header.HyperMD-header-4) {
+  color: var(--gray-400);
+}
+
+:is(h5, .HyperMD-header.HyperMD-header-5) {
+  color: var(--gray-500);
+}
+
+:is(h6, .HyperMD-header.HyperMD-header-6) {
+  color: var(--gray-600);
+}
+
+/* ================================= General ================================= */
+
+h1 {
+  margin-top: 30px !important;
+  margin-bottom: 10px !important;
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.image-borders img {
+  border: solid;
+  border-width: 1em;
+  border-width: 1px;
+  border-radius: 6px;
+  border-color: rgba(122, 122, 122, 0.5);
+}
+
+.markdown-preview-view img {
+  max-width: 100%;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 0px;
+}
+
+.callout {
+  border-radius: 14px;
+  border-width: 2px;
+}
+
+.task-list-item-checkbox {
+  border-width: 2px;
+  color: var(--color-accent);
+}
+
+#calendar-container .title {
+  font-size: 18px;
+}
+
+.center-images img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.no-embed-border {
+  --embed-border-left: 0px solid black !important;
+}
+
+/* .markdown-preview-view */
+.markdown-preview-view {
+  border-radius: 0px;
+}
+/* center titles */
+.center-titles
+  :is(
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    .HyperMD-header.HyperMD-header-1,
+    .HyperMD-header.HyperMD-header-2,
+    .HyperMD-header.HyperMD-header-3,
+    .HyperMD-header.HyperMD-header-4,
+    .HyperMD-header.HyperMD-header-5,
+    .HyperMD-header.HyperMD-header-6
+  ) {
+  text-align: center;
+}
+
+code {
+  font-family: "JetBrainsMono Nerd Font Mono", monospace;
+}
+
+/* vertical tab header group title */
+
+.vertical-tab-header-group-title {
+  color: var(--color-accent);
+}
+/* Command palette styling */
+
+.prompt {
+  opacity: 0.99;
+  border-radius: 13px;
+  border-width: 2px;
+}
+
+.suggestion-highlight {
+  text-decoration: none;
+  color: var(--text-accent);
+}
+
+.suggestion-item.is-selected {
+  border: solid var(--text-accent);
+  border-radius: 13px;
+  border-width: 2px;
+}
+
+.suggestion-hotkey {
+  background-color: var(--text-accent);
+  color: black;
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+.prompt-instruction {
+  font-weight: 500;
+}
+
+.prompt-instruction-command {
+  /* background-color: rgb(250, 252, 255, 0.5); */
+  /* color: black; */
+  /* border-radius: 10px; */
+  padding: 0 3px 0 3px;
+}
+
+/* Faded emoji in tasks */
+ul > li.task-list-item p {
+  text-indent: -1.5em;
+}
+ul > li.task-list-item.is-checked {
+  position: relative;
+  filter: url();
+}
+ul > li.task-list-item.is-checked::after {
+  content: "";
+  position: absolute;
+  display: inline-block;
+  backdrop-filter: grayscale();
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.markdown-source-view.mod-cm6
+  .HyperMD-task-line[data-task]:not([data-task=" "])
+  span {
+  filter: grayscale();
+}
+
+/* Table styling - Rounded corners */
+
+:root table {
+  border-collapse: separate;
+  border-spacing: 0;
+}
+th:first-of-type {
+  border-top-left-radius: 5px;
+}
+th:last-of-type {
+  border-top-right-radius: 5px;
+}
+tr:last-of-type td:first-of-type {
+  border-bottom-left-radius: 5px;
+}
+tr:last-of-type td:last-of-type {
+  border-bottom-right-radius: 5px;
+}
+
+:root :is(td, th) {
+  border-width: 0 var(--table-border-width) var(--table-border-width) 0;
+}
+
+/* Test 
+.view-header-title-container {
+  color: var(--color-accent);
+}
+*/
+
+/* Blocktext */
+
+/* Live-view */
+.cm-line {
+text-align: justify !important;
+}
+
+/* Reading-view */
+.markdown-reading-view p {
+    text-align: justify !important;
+}
+
+/* Source-view */
+.markdown-source-view p {
+    text-align: justify !important;
+}
+
+/* note checkboxes */
+input[type="checkbox"] {
+  height: var(--checkbox-size);
+  width: var(--checkbox-size);
+
+  background: var(--background-modifier-border);
+
+  position: relative;
+
+  padding: 0;
+  margin: 0 6px 0 0;
+
+  border: none;
+  border-radius: var(--radius-s);
+  border-width: 2px;
+
+  transition: all 0.3s;
+
+  -webkit-appearance: none;
+  appearance: none;
+  flex-shrink: 0;
+}
+
+input[type="checkbox"]:hover {
+  border: none;
+  border-radius: var(--checkbox-radius);
+  transition: box-shadow 0.15s ease-in-out;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+input[type="checkbox"]:checked {
+  background: transparent;
+  border: none;
+  animation: pop 0.5s;
+  animation-direction: alternate;
+}
+
+input[type="checkbox"]:checked::after {
+  display: block;
+  content: "";
+
+  height: var(--checkbox-size);
+  width: var(--checkbox-size);
+
+  background: var(--text-accent);
+
+  position: absolute;
+  /* top: 2px;
+	left: -2px; */
+
+  -webkit-mask-position: 52% 52%;
+  -webkit-mask-size: 100%;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-check" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpath stroke="none" d="M0 0h24v24H0z" fill="none"%3E%3C/path%3E%3Cpath d="M5 12l5 5l10 -10"%3E%3C/path%3E%3C/svg%3E');
+  transition: 700ms;
+}
+
+li[data-task="x"] input[type="checkbox"]:checked::after {
+  left: 1px;
+}
+
+input[type="checkbox"]:checked:hover {
+  background: var(--text-on-accent);
+  border: none;
+  transform: scale(1.2);
+  transition: 300ms;
+}
+
+input[type="checkbox"]:checked:hover::after {
+  background: var(--color-accent);
+}
+
+@keyframes pop {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(0.9);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}

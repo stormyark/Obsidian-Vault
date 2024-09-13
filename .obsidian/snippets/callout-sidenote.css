@@ -1,0 +1,36 @@
+/*
+How to use:
+> [!bug|aside-r]
+> your text here
+---
+> [!bug|aside-l]
+> your text here
+*/
+
+/* aside functionality as a custom callout */
+:is(.markdown-source-view .cm-callout, div:not([class])):has(
+    > .callout[data-callout-metadata*="aside"]
+  ) {
+  position: relative;
+  overflow: visible;
+  contain: none !important;
+}
+.callout[data-callout-metadata*="aside"] {
+  --aside-width: 200px;
+  --aside-offset: var(--size-4-4);
+  position: absolute;
+}
+.callout[data-callout-metadata*="aside-l"] {
+  left: calc(-1 * (var(--aside-width) + var(--aside-offset)));
+  right: calc(100% + var(--aside-offset));
+}
+.callout[data-callout-metadata*="aside-r"] {
+  left: calc(100% + var(--aside-offset));
+  right: calc(-1 * (var(--aside-width) + var(--aside-offset)));
+}
+@media (hover: hover) {
+  .markdown-source-view.mod-cm6
+    .cm-embed-block:has(> div > [data-callout-metadata*="aside"]):hover {
+    overflow: visible;
+  }
+}
