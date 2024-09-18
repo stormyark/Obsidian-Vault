@@ -12,7 +12,7 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 ## Homepage
 <div
     align="center">
-    <a href="./Vault/01%20-%20stormy/home.md" target="_blank">
+    <a href="./Vault/01%20-%20stormy/Home.md" target="_blank">
         <img src="./Vault/showcase/showcase_v5.png" align="center" border="solid" border-radius=6px>
     </a>
 </div>
