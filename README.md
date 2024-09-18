@@ -15,7 +15,7 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 ## Showcase blueprint
 <div
     align="center">
-    <a href="./snippets/note-backgrounds.css" target="_blank">
+    <a href="./.obsidian/snippets/custom-backgrounds.css" target="_blank">
         <img src="./Vault/showcase/showcase_blueprint.png" width="50%" align="center" border="solid" border-radius=6px>
     </a>
 </div>
@@ -23,7 +23,7 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 ## Showcase daily note
 <div
     align="center">
-    <a href="./.obsidian/snippets/daily-note-themes.css" target="_blank">
+    <a href="./.obsidian/snippets/daily-note-theme.css" target="_blank">
         <img src="./Vault/showcase/showcase_daily_v2.png" width="50%" align="center" border="solid" border-radius=6px>
     </a>
 </div>
