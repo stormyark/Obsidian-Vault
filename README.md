@@ -10,7 +10,12 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 <h1 align="center">Showcase</h1>
 
 ## Homepage
-![homepage](./Vault/showcase/showcase_v5.png)
+<div
+    align="center">
+    <a href="./Vault/01%20-%20stormy/home.md" target="_blank">
+        <img src="./Vault/showcase/showcase_v5.png" width="50%" align="center" border="solid" border-radius=6px>
+    </a>
+</div>
 
 ## Showcase blueprint
 <div
