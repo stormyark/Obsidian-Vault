@@ -1,5 +1,6 @@
-/* MIT license
+/* GPLv3 license
 Callout Email
+Author: Kapirklaa
 */
 
 .callout[data-callout="email"][data-callout-metadata~="red"] {
