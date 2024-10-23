@@ -33,14 +33,6 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
     </a>
 </div>
 
-## Callouts
-### Email
-![email](./Vault/showcase/email.png)
-### Screen
-![screen](./Vault/showcase/screen.png)
-### Letter
-![letter](./Vault/showcase/letter.png)
-
 ## Other
 ### Newspaper
 ![newspaper](./Vault/showcase/newspaper.png)
