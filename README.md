@@ -1,6 +1,7 @@
 <h1 align="center">Obsidian-Vault</h1>
 
-![](https://img.shields.io/github/release-date/stormyark/Obsidian-Vault) ![](https://img.shields.io/github/license/stormyark/Obsidian-Vault)
+![](https://img.shields.io/github/release-date/stormyark/Obsidian-Vault) ![](https://img.shields.io/github/license/stormyark/Obsidian-Vault) <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=stormyark.Obsidian-Vault" />
+
 ### A Template for my Obsidian Vault.
 
 This is a copy of my Obsidian Vault, scrubbed of (most) personal information that you can use as a template or inspiration for your own vault.
