@@ -30,7 +30,6 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 - Multi-Column Markdown
 - Dataview
 - Homepage
-- (optional: Iconize)
 #### snippets needed
 - [dashboard](./.obsidian/snippets/dashboard.css)
 - [hide-properties](./.obsidian/snippets/hide-properties.css)
@@ -38,7 +37,9 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 #### setup
 - download my [homepage](./Vault/01%20-%20stormy/Home.md)
 - move a your Banner to [08 - Recources](./08%20-%20Recources/Purple_Sky.png)
-- 
+To showcase ToDo's
+- Create a ToDo List 
+- Line 19 in [homepage](./Vault/01%20-%20stormy/Home.md)
 
 ## Showcase blueprint
 <div
