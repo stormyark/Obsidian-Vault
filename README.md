@@ -17,6 +17,7 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
         <img src="./Vault/showcase/showcase_v7.png" align="center" border="solid" border-radius=6px>
     </a>
 </div>
+
 [showcase with data](./Vault/showcase/showcase_v6.png).
 
 ## Showcase blueprint
