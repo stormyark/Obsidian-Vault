@@ -38,8 +38,8 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 - download my [homepage](./Vault/01%20-%20stormy/Home.md)
 - move a your Banner to [08 - Recources](./08%20-%20Recources/Purple_Sky.png)
 To showcase ToDo's
-- Create a ToDo List 
-- Line 19 in [homepage](./Vault/01%20-%20stormy/Home.md)
+- Change the Tag in line 25,26,44 in [homepage](./Vault/01%20-%20stormy/Home.md)
+- Change the Folder in line 43 in [homepage](./Vault/01%20-%20stormy/Home.md)
 
 ## Showcase blueprint
 <div
