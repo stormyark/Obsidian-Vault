@@ -24,17 +24,17 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 - Easy access to your recent notes and tags
 - Stats of your vault
 ### How to copy
-#### Plugins needed
+#### 1. Download plugins
 - Banners
 - Widgets
 - Multi-Column Markdown
 - Dataview
 - Homepage
-#### snippets needed
+#### 2. Download snippets
 - [dashboard](./.obsidian/snippets/dashboard.css)
 - [hide-properties](./.obsidian/snippets/hide-properties.css)
 - [MCL Multi Column](./.obsidian/snippets/MCL%20Multi%20Column.css)
-#### setup
+#### 3. setup
 - Download my [homepage](./Vault/01%20-%20stormy/Home.md)
 - Move a your Banner to [08 - Recources](./Vault/08%20-%20Recources/Purple_Sky.png)
 
