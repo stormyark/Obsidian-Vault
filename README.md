@@ -17,7 +17,7 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
     </a>
 </div>
 
-[showcase with data](./Vault/showcase/showcase_v6.png)
+###[showcase with data](./Vault/showcase/showcase_v6.png)
 
 ### Features
 - Display unchecked ToDo's
