@@ -48,6 +48,7 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
         <img src="./Vault/showcase/Obsidian-Colored-Sidebar.png" width="100%" align="center" border="solid" border-radius=6px>
     </a>
 </div>
+
 Credits: [CyanVoxel](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar)
 
 ## Showcase blueprint
