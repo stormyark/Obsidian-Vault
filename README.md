@@ -35,11 +35,12 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 - [hide-properties](./.obsidian/snippets/hide-properties.css)
 - [MCL Multi Column](./.obsidian/snippets/MCL%20Multi%20Column.css)
 #### setup
-- download my [homepage](./Vault/01%20-%20stormy/Home.md)
-- move a your Banner to [08 - Recources](./Vault/08%20-%20Recources/Purple_Sky.png)
-To showcase ToDo's
-- Change the Tag in line 25,26,44 in [homepage](./Vault/01%20-%20stormy/Home.md)
-- Change the Folder in line 43 in [homepage](./Vault/01%20-%20stormy/Home.md)
+- Download my [homepage](./Vault/01%20-%20stormy/Home.md)
+- Move a your Banner to [08 - Recources](./Vault/08%20-%20Recources/Purple_Sky.png)
+
+**To showcase ToDo's**
+- Change the tag in line 25,26,44 in [homepage](./Vault/01%20-%20stormy/Home.md) to your tag you want to be displayed
+- Change the folder in line 43 in [homepage](./Vault/01%20-%20stormy/Home.md) to the folder where your projects are located
 
 ## Showcase blueprint
 <div
