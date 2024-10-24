@@ -1,18 +1,17 @@
-<h1 align="center">Obsidian-Vault</h1>
+<h1 align="center">Obsidian Vault</h1>
 
 ![](https://img.shields.io/github/release-date/stormyark/Obsidian-Vault) ![](https://img.shields.io/github/license/stormyark/Obsidian-Vault) ![](https://visitor-badge.laobi.icu/badge?page_id=stormyark.Obsidian-Vault")
 
 ### A Template for my Obsidian Vault.
 
-This is a copy of my Obsidian Vault, scrubbed of (most) personal information that you can use as a template or inspiration for your own vault.
+This is a copy of my Obsidian Vault, scrubbed of personal information that you can use as a template or inspiration for your own vault.
 
 Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets/extended-colorschemes.css).
 
 <h1 align="center">Showcase</h1>
 
 ## Homepage
-<div
-    align="center">
+<div align="center">
     <a href="./Vault/01%20-%20stormy/Home.md" target="_blank">
         <img src="./Vault/showcase/showcase_v7.png" align="center" border="solid" border-radius=6px>
     </a>
@@ -23,8 +22,24 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 ### Features
 - Displaying unchecked ToDo's
 - Easy access to your recent notes and tags
-- Stats of your Vault
+- Stats of your vault
 ### How to copy
+#### Plugins needed
+- Banners
+- Widgets
+- Multi-Column Markdown
+- Dataview
+- Homepage
+- (optional: Iconize)
+#### snippets needed
+- [dashboard](./.obsidian/snippets/dashboard.css)
+- [dashboard-ReadLineLength](./.obsidian/snippets/dashboard-ReadLineLength.css)
+- [hide-properties](./.obsidian/snippets/hide-properties.css)
+- [MCL Multi Column](./.obsidian/snippets/MCL%20Multi%20Column.css)
+#### setup
+- download my [homepage](./Vault/01%20-%20stormy/Home.md)
+- move a your Banner to [08 - Recources](./08%20-%20Recources/Purple_Sky.png)
+- 
 
 ## Showcase blueprint
 <div
