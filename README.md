@@ -76,3 +76,6 @@ Credits: [CyanVoxel](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar)
 
 ## Contributions
 If you'd like to contribute to this project, feel free to open a pull request or submit issues with suggestions and feedback.
+
+## License
+License can be found [here](https://github.com/stormyark/Obsidian-Vault/blob/main/LICENSE)
