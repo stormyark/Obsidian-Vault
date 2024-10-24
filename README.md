@@ -20,6 +20,12 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 
 [showcase with data](./Vault/showcase/showcase_v6.png)
 
+### Features
+- Displaying unchecked ToDo's
+- Easy access to your recent notes
+- Stats of your Vault
+### How to copy
+
 ## Showcase blueprint
 <div
     align="center">
