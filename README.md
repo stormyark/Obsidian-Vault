@@ -22,7 +22,7 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 
 ### Features
 - Displaying unchecked ToDo's
-- Easy access to your recent notes
+- Easy access to your recent notes and tags
 - Stats of your Vault
 ### How to copy
 
