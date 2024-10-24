@@ -67,3 +67,12 @@ Credits: [CyanVoxel](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar)
 
 ## Newspaper
 ![newspaper](./Vault/showcase/newspaper.png)
+
+## How to Use
+1. Clone the repository:
+```git clone https://github.com/stormyark/Obsidian-Vault.git```
+
+2. Browse the docs folder for the topic you're interested in.
+
+## Contributions
+If you'd like to contribute to this project, feel free to open a pull request or submit issues with suggestions and feedback.
