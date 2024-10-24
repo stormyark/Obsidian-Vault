@@ -57,6 +57,5 @@ To showcase ToDo's
     </a>
 </div>
 
-## Other
-### Newspaper
+## Newspaper
 ![newspaper](./Vault/showcase/newspaper.png)
