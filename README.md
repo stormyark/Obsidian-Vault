@@ -20,7 +20,7 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 [showcase with data](./Vault/showcase/showcase_v6.png)
 
 ### Features
-- Displaying unchecked ToDo's
+- Display unchecked ToDo's
 - Easy access to your recent notes and tags
 - Stats of your vault
 ### How to copy
