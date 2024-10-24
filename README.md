@@ -33,7 +33,6 @@ Theme: **AnuPpuccin** with [extended color schemes snippet](./.obsidian/snippets
 - (optional: Iconize)
 #### snippets needed
 - [dashboard](./.obsidian/snippets/dashboard.css)
-- [dashboard-ReadLineLength](./.obsidian/snippets/dashboard-ReadLineLength.css)
 - [hide-properties](./.obsidian/snippets/hide-properties.css)
 - [MCL Multi Column](./.obsidian/snippets/MCL%20Multi%20Column.css)
 #### setup
