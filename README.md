@@ -53,7 +53,7 @@ Credits: [CyanVoxel](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar)
 
 ## Showcase blueprint
 <div align="center">
-    <a href="./.obsidian/snippets/custom-background.css" target="_blank">
+    <a href="./.obsidian/snippets/notebook-backgrounds.css" target="_blank">
         <img src="./Vault/showcase/showcase_blueprint.png" width="50%" align="center" border="solid" border-radius=6px>
     </a>
 </div>
