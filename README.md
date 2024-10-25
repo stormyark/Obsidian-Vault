@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/release-date/stormyark/Obsidian-Vault) ![](https://img.shields.io/github/license/stormyark/Obsidian-Vault) ![](https://visitor-badge.laobi.icu/badge?page_id=stormyark.Obsidian-Vault")
+![](https://img.shields.io/github/release-date/stormyark/Obsidian-Vault) ![](https://img.shields.io/github/license/stormyark/Obsidian-Vault) ![](https://img.shields.io/github/visitor/stormyark/Obsidian-Vault) ![](https://visitor-badge.laobi.icu/badge?page_id=stormyark.Obsidian-Vault")
 
 <h1 align="center">Obsidian Vault</h1>
 
