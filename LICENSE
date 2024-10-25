@@ -4,7 +4,7 @@ This repository utilizes multiple license because it contains content that is di
 
 The following items are re-released under the GPL-3.0 License.
 
-- [efemkay's MCL snippet](https://github.com/efemkay/obsidian-modular-css-layout)
+- [efemkay's MCL snippet](https://github.com/efemkay/obsidian-modular-css-layout), with modifications from myself (stormy)
 - [ElsaTam's Newspaper snippet](https://github.com/ElsaTam/Obsidian-Stuff/blob/main/snippets/newspaper/newspaper.css)
 - [ElsaTam's Newspaper All in one snippet](https://github.com/ElsaTam/Obsidian-Stuff/blob/main/snippets/newspaper/newspaper-all-in-one.css)
 - [ElsaTam's Note accent color snippet](https://github.com/ElsaTam/Obsidian-Stuff/blob/main/snippets/note-accent-colors/note-accent-colors.css)
@@ -13,8 +13,11 @@ The following items are re-released under the GPL-3.0 License.
 
 The following items are re-released under the original MIT license they were released from.
 
-- [Cyanvoxel's Obsidian Notebook themes snippet](https://github.com/CyanVoxel/Obsidian-Notebook-Themes)
-- [Cyanvoxel's Minecraft Snippet](https://github.com/CyanVoxel/Obsidian-Game-Themes), with modifications from myself, Stormy
+- [Obsidian Notebook themes snippet](https://github.com/CyanVoxel/Obsidian-Notebook-Themes), with modifications from myself (stormy)
+- [Minecraft Snippet](https://github.com/CyanVoxel/Obsidian-Game-Themes), with modifications from myself (stormy)
+- [Daily Note Themes](https://github.com/CyanVoxel/Obsidian-Daily-Themes), with modifications from myself (stormy)
+- [Colored Sidebar Items](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar), with modifications from myself (stormy)
+- [Sidenote Callout](author: sailKite)
 
 # stormy's Content
 
