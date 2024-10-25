@@ -6,7 +6,7 @@
 
 This is a copy of my Obsidian Vault, scrubbed of personal information that you can use as a template or inspiration for your own vault.
 
-Theme: **AnuPpuccin** with [extended color schemes](https://github.com/AnubisNekhet/AnuPpuccin/blob/main/snippets/extended-colorschemes.css) snippet.
+Theme: **AnuPpuccin** with [extended-colorschemes](https://github.com/AnubisNekhet/AnuPpuccin/blob/main/snippets/extended-colorschemes.css) snippet.
 
 <h1 align="center">Showcase</h1>
 
