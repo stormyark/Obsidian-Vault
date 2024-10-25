@@ -1,6 +1,23 @@
-MIT License
+This repository utilizes multiple license because it contains content that is distributed from other contributors. 
 
-Copyright (c) 2024 stormy
+# GPL-3.0
+
+The following items are re-released under the GPL-3.0 License.
+
+- [efemkay's MCL snippet](https://github.com/efemkay/obsidian-modular-css-layout)
+- [ElsaTam's Newspaper snippet](https://github.com/ElsaTam/Obsidian-Stuff/blob/main/snippets/newspaper/newspaper.css)
+- [ElsaTam's Newspaper All in one snippet](https://github.com/ElsaTam/Obsidian-Stuff/blob/main/snippets/newspaper/newspaper-all-in-one.css)
+
+# MIT License
+
+The following items are re-released under the original MIT license they were released from.
+
+- [Cyanvoxel's Obsidian Notebook themes snippet](https://github.com/CyanVoxel/Obsidian-Notebook-Themes)
+- [Cyanvoxel's Minecraft Snippet](https://github.com/CyanVoxel/Obsidian-Game-Themes), with modifications from myself, Stormy
+
+# stormy's Content
+
+My content is original Copyright (c) 2024 stormy, but is also released under the MIT license with the following terms:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -14,8 +31,4 @@ copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
