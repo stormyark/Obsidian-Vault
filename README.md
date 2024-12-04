@@ -65,8 +65,10 @@ Credits: [CyanVoxel](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar)
     </a>
 </div>
 
-## Newspaper
-![newspaper](./Vault/showcase/newspaper.png)
+## Obsifetch
+[obsifetch](./Vault/showcase/showcase_obsifetch.png)
+
+Credits: [Obsifetch Plugin](https://github.com/tabibyte/obsifetch)
 
 ## How to Use
 1. Clone the repository:
