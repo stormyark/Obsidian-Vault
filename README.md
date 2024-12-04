@@ -66,7 +66,7 @@ Credits: [CyanVoxel](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar)
 </div>
 
 ## Obsifetch
-[obsifetch](./Vault/showcase/showcase_obsifetch.png)
+![](./Vault/showcase/showcase_obsifetch.png)
 
 Credits: [Obsifetch Plugin](https://github.com/tabibyte/obsifetch)
 
