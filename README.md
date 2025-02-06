@@ -17,8 +17,6 @@ Theme: **AnuPpuccin** with [extended-colorschemes](https://github.com/AnubisNekh
     </a>
 </div>
 
-[showcase with data](./Vault/showcase/showcase_v6.png)
-
 ### Features
 - Display unchecked ToDo's
 - Easy access to your recent notes and tags
