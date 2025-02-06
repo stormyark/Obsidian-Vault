@@ -28,6 +28,7 @@ Theme: **AnuPpuccin** with [extended-colorschemes](https://github.com/AnubisNekh
 - Multi-Column Markdown
 - Dataview
 - Homepage
+- Contribution Graph
 #### 2. Download snippets
 - [dashboard](./.obsidian/snippets/dashboard.css)
 - [hide-properties](./.obsidian/snippets/hide-properties.css)
