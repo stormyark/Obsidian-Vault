@@ -21,6 +21,7 @@ Theme: **AnuPpuccin** with [extended-colorschemes](https://github.com/AnubisNekh
 - Display unchecked ToDo's
 - Easy access to your recent notes and tags
 - Stats of your vault
+- Heatmap of created files
 ### How to copy
 #### 1. Download plugins
 - Banners
