@@ -13,7 +13,7 @@ Theme: **AnuPpuccin** with [extended-colorschemes](https://github.com/AnubisNekh
 ### Homepage
 <div align="center">
     <a href="./Vault/01%20-%20stormy/Home.md" target="_blank">
-        <img src="./Vault/showcase/showcase_v8.png" align="center" border="solid" border-radius=6px>
+        <img src="./Vault/showcase/showcase_v9.png" align="center" border="solid" border-radius=6px>
     </a>
 </div>
 
