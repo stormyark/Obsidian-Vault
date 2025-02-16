@@ -43,7 +43,7 @@ Theme: **AnuPpuccin** with [extended-colorschemes](https://github.com/AnubisNekh
 - Change the tag in line 25,26,44 in [homepage](./Vault/01%20-%20stormy/Home.md) to your tag you want to be displayed
 - Change the folder in line 43 in [homepage](./Vault/01%20-%20stormy/Home.md) to the folder where your projects are located
 
-## Obsidian-Colored-Sidebar
+### Obsidian-Colored-Sidebar
 <div align="center">
     <a href="./.obsidian/snippets/colored-sidebar-items.css" target="_blank">
         <img src="./Vault/showcase/Obsidian-Colored-Sidebar.png" width="100%" align="center" border="solid" border-radius=6px>
