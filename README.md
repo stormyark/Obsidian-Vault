@@ -43,6 +43,8 @@ Theme: **AnuPpuccin** with [extended-colorschemes](https://github.com/AnubisNekh
 - Change the tag in line 25,26,44 in [homepage](./Vault/01%20-%20stormy/Home.md) to your tag you want to be displayed
 - Change the folder in line 43 in [homepage](./Vault/01%20-%20stormy/Home.md) to the folder where your projects are located
 
+## Features
+
 ### Obsidian-Colored-Sidebar
 <div align="center">
     <a href="./.obsidian/snippets/colored-sidebar-items.css" target="_blank">
@@ -52,21 +54,21 @@ Theme: **AnuPpuccin** with [extended-colorschemes](https://github.com/AnubisNekh
 
 Credits: [CyanVoxel](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar)
 
-## Showcase blueprint
+### Showcase blueprint
 <div align="center">
     <a href="./.obsidian/snippets/notebook-backgrounds.css" target="_blank">
         <img src="./Vault/showcase/showcase_blueprint.png" width="50%" align="center" border="solid" border-radius=6px>
     </a>
 </div>
 
-## Showcase daily note
+### Showcase daily note
 <div align="center">
     <a href="./.obsidian/snippets/daily-note-theme.css" target="_blank">
         <img src="./Vault/showcase/showcase_daily_v2.png" width="50%" align="center" border="solid" border-radius=6px>
     </a>
 </div>
 
-## Obsifetch
+### Obsifetch
 ![](./Vault/showcase/showcase_obsifetch.png)
 
 Credits: [Obsifetch Plugin](https://github.com/tabibyte/obsifetch)
