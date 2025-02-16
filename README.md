@@ -45,7 +45,7 @@ Theme: **AnuPpuccin** with [extended-colorschemes](https://github.com/AnubisNekh
 
 ## Features
 
-<h3 align="center">Obsidian-Colored-Sidebar</h3>
+<h2 align="center">Obsidian-Colored-Sidebar</h2>
 <div align="center">
     <a href="./.obsidian/snippets/colored-sidebar-items.css" target="_blank">
         <img src="./Vault/showcase/Obsidian-Colored-Sidebar.png" width="100%" align="center" border="solid" border-radius=6px>
