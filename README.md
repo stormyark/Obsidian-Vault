@@ -45,7 +45,7 @@ Theme: **AnuPpuccin** with [extended-colorschemes](https://github.com/AnubisNekh
 
 ## Features
 
-### Obsidian-Colored-Sidebar
+<h3 align="center">Obsidian-Colored-Sidebar</h3>
 <div align="center">
     <a href="./.obsidian/snippets/colored-sidebar-items.css" target="_blank">
         <img src="./Vault/showcase/Obsidian-Colored-Sidebar.png" width="100%" align="center" border="solid" border-radius=6px>
@@ -54,21 +54,22 @@ Theme: **AnuPpuccin** with [extended-colorschemes](https://github.com/AnubisNekh
 
 Credits: [CyanVoxel](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar)
 
-### Showcase blueprint
+<h3 align="center">Showcase blueprint</h3>
 <div align="center">
     <a href="./.obsidian/snippets/notebook-backgrounds.css" target="_blank">
         <img src="./Vault/showcase/showcase_blueprint.png" width="50%" align="center" border="solid" border-radius=6px>
     </a>
 </div>
 
-### Showcase daily note
+<h3 align="center">Showcase daily note</h3>
 <div align="center">
     <a href="./.obsidian/snippets/daily-note-theme.css" target="_blank">
         <img src="./Vault/showcase/showcase_daily_v2.png" width="50%" align="center" border="solid" border-radius=6px>
     </a>
 </div>
 
-<h3 align="center">Obsidifetch</h3>
+<h3 align="center">Obsifetch</h3>
+
 ![](./Vault/showcase/showcase_obsifetch.png)
 Credits: [Obsifetch Plugin](https://github.com/tabibyte/obsifetch)
 
