@@ -26,10 +26,11 @@ Theme: **AnuPpuccin** with [extended-colorschemes](https://github.com/AnubisNekh
 #### 1. Download plugins
 - Banners
 - Widgets
-- Multi-Column Markdown
+- Calendar
 - Dataview
 - Homepage
 - Contribution Graph
+- Multi-Column Markdown
 #### 2. Download snippets
 - [dashboard](./.obsidian/snippets/dashboard.css)
 - [hide-properties](./.obsidian/snippets/hide-properties.css)
