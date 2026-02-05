@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/release-date/stormyark/Obsidian-Vault) ![](https://img.shields.io/github/license/stormyark/Obsidian-Vault) ![](https://img.shields.io/github/visitor/stormyark/Obsidian-Vault) ![](https://visitor-badge.laobi.icu/badge?page_id=stormyark.Obsidian-Vault)
+![](https://img.shields.io/github/license/stormyark/Obsidian-Vault) ![](https://img.shields.io/github/visitor/stormyark/Obsidian-Vault) ![](https://visitor-badge.laobi.icu/badge?page_id=stormyark.Obsidian-Vault)
 
 <h1 align="center">Obsidian Vault</h1>
 
@@ -13,7 +13,7 @@ Theme: **AnuPpuccin** with [extended-colorschemes](https://github.com/AnubisNekh
 ### Homepage
 <div align="center">
     <a href="./Vault/01%20-%20stormy/Home.md" target="_blank">
-        <img src="./Vault/showcase/showcase_v10.png" align="center" border="solid" border-radius=6px>
+        <img src="./Vault/showcase/showcase_v11.png" align="center" border="solid" border-radius=6px>
     </a>
 </div>
 
