@@ -1,5 +1,3 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=stormyark.Obsidian-Vault)
-
 <h1 align="center">Obsidian Vault</h1>
 
 ### A Template for my Obsidian Vault.
@@ -94,3 +92,5 @@ If you'd like to contribute to this project, feel free to open a pull request or
 
 ## 📄 License
 License can be found [here](https://github.com/stormyark/Obsidian-Vault/blob/main/LICENSE)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=stormyark.Obsidian-Vault)
