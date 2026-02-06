@@ -81,15 +81,6 @@ Credits: [CyanVoxel](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar)
     </a>
 </div>
 
-## 🚀 How to Use
-1. Clone the repository:
-```git clone https://github.com/stormyark/Obsidian-Vault.git```
-
-2. Browse the docs folder for the topic you're interested in.
-
-## 🤝 Contributions
-If you'd like to contribute to this project, feel free to open a pull request or submit issues with suggestions and feedback.
-
 ## 📄 License
 License can be found [here](https://github.com/stormyark/Obsidian-Vault/blob/main/LICENSE)
 
