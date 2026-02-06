@@ -1,14 +1,20 @@
 /*------------------------------------------------------------------------------
-                            stormy's General Tweaks
-
-MIT license
-Author: stormy
+							stormy's General Tweaks							
 ------------------------------------------------------------------------------*/
+
 :root {
   /* ================================ Colors ================================ */
   --white: #ffffff;
+
+  --purple-100: #cba6f7;
+  --purple-200: #b890e0;
+  --purple-300: #a57ac9;
+  --purple-400: #9264b2;
+  --purple-500: #7f4e9b;
+  --purple-600: #6c3884;
+
   --gray-100: #ffffff;
-  --gray-200: #ffffffe6;
+  --gray-200: #ffffffd9;
   --gray-300: #ffffffcc;
   --gray-400: #ffffffb3;
   --gray-500: #ffffff99;
@@ -25,34 +31,40 @@ Author: stormy
 /* ============================== Headingcolors ============================== */
 
 :is(h1, .HyperMD-header.HyperMD-header-1) {
-  color: var(--gray-100);
+  color: var(--purple-100);
   font-weight: 600;
   margin-bottom: 0.5em;
+  text-align: start !important;
 }
 
 :is(h2, .HyperMD-header.HyperMD-header-2) {
-  color: var(--gray-200);
+  color: var(--purple-200);
   font-weight: 600;
+  text-align: start !important;
 }
 
 :is(h3, .HyperMD-header.HyperMD-header-3) {
-  color: var(--gray-300);
-  font-weight: 500;
+  color: var(--purple-300);
+  font-weight: 600;
+  text-align: start !important;
 }
 
 :is(h4, .HyperMD-header.HyperMD-header-4) {
-  color: var(--gray-400);
+  color: var(--purple-400);
   font-weight: 600;
+  text-align: start !important;
 }
 
 :is(h5, .HyperMD-header.HyperMD-header-5) {
-  color: var(--gray-500);
+  color: var(--purple-500);
   font-weight: 600;
+  text-align: start !important;
 }
 
 :is(h6, .HyperMD-header.HyperMD-header-6) {
-  color: var(--gray-600);
+  color: var(--purple-600);
   font-weight: 600;
+  text-align: start !important;
 }
 
 /* ============================ Color table header ============================ */
@@ -125,14 +137,14 @@ img {
   border-radius: 14px;
   border-width: 2px;
 }
-
+/*
 .task-list-item-checkbox {
   border-width: 2px;
   color: var(--color-accent);
 }
-
+*/
 #calendar-container .title {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .center-images img {
@@ -324,3 +336,4 @@ input[type="checkbox"]:checked:hover::after {
     transform: scale(1);
   }
 }
+*/

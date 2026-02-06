@@ -68,8 +68,46 @@ Optional css that can be added to make dashboards use wide margin
 if "Readable line length" is enabled in Editor
 */
 
-.dashboard.markdown-preview-view.is-readable-line-width .markdown-preview-section,
-.dashboard.markdown-preview-view.is-readable-line-width .markdown-preview-section > div {   
-   width: 100% !important;
-   max-width: 100% !important;
+.dashboard.markdown-preview-view.is-readable-line-width
+  .markdown-preview-section,
+.dashboard.markdown-preview-view.is-readable-line-width
+  .markdown-preview-section
+  > div {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.dashboard .obsidian-banner-wrapper {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.dashboard .metadata-container {
+  margin-top: calc(var(--banner-height) - 10px) !important;
+}
+
+.dashboard .mod-header {
+  margin-top: calc(var(--banner-height) - 30px);
+}
+
+/* dont allow scroll 
+.dashboard.markdown-source-view.mod-cm6 .cm-scroller,
+.dashboard.markdown-rendered {
+  overflow: hidden !important;
+}
+*/
+
+/* Erlaubt Scrollen, aber entfernt den leeren Platz unter dem Inhalt */
+.dashboard .markdown-source-view.mod-cm6 .cm-sizer {
+  padding-bottom: 0px !important;
+}
+
+/* Falls du das Dashboard auch im Lese-Modus (Reading Mode) nutzt */
+.dashboard .markdown-rendered {
+  padding-bottom: 0px !important;
+}
+
+/* Optional: Verhindert, dass der Editor eine Mindesthöhe erzwingt */
+.dashboard .markdown-source-view.mod-cm6 .cm-content {
+  min-height: auto !important;
 }
