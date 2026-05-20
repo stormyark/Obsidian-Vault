@@ -33,11 +33,11 @@ Theme: **AnuPpuccin** with [extended-colorschemes](https://github.com/AnubisNekh
 - [dashboard](./.obsidian/snippets/dashboard.css)
 - [hide-properties](./.obsidian/snippets/hide-properties.css)
 - [MCL Multi Column](./.obsidian/snippets/MCL%20Multi%20Column.css)
-#### ⚙3. setup
+#### 3. Setup
 - Download my [homepage](./Vault/01%20-%20stormy/Home.md)
 - Move a your Banner to [08 - Recources](./Vault/08%20-%20Recources/Purple_Sky.png)
 
-**To showcase ToDo's**
+**Showcase ToDo's**
 - Change the tag in line `25,26,44` in [homepage](./Vault/01%20-%20stormy/Home.md) to your tag you want to be displayed
 - Change the folder in line `43` in [homepage](./Vault/01%20-%20stormy/Home.md) to the folder where your projects are located
 
